@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of JARVIS — The Futuristic AI Companion",
+  "description": "An advanced, voice-enabled AI assistant inspired by Tony Stark’s digital companion. Engage in real-time, natural conversations with a futuristic AI that helps with tasks, provides information, and offers a witty, friendly personality.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
